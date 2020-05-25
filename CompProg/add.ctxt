@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=add
+comment1.params=i\ a
+comment1.target=void\ addition(int,\ int)
+comment2.params=f\ e
+comment2.target=void\ addition(float,\ float)
+comment3.params=d\ g
+comment3.target=void\ addition(double,\ double)
+numComments=4
