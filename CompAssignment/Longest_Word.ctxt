@@ -2,6 +2,4 @@
 comment0.target=Longest_Word
 comment1.params=
 comment1.target=void\ main()
-comment2.params=s1
-comment2.target=java.lang.String\ lengthiestString(java.lang.String)
-numComments=3
+numComments=2
