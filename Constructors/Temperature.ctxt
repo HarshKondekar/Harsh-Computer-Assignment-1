@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Temperature
+comment1.params=
+comment1.target=Temperature()
+comment2.params=t
+comment2.target=Temperature(double)
+comment3.params=
+comment3.target=double\ convert2celcius()
+comment4.params=
+comment4.target=double\ getTemp()
+numComments=5

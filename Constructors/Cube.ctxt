@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cube
+comment1.params=
+comment1.target=int\ getVolume()
+comment2.params=l\ b\ h
+comment2.target=Cube(int,\ int,\ int)
+comment3.params=l\ b
+comment3.target=Cube(int,\ int)
+comment4.params=
+comment4.target=Cube()
+numComments=5
