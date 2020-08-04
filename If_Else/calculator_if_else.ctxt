@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=calculator_if_else
+comment1.params=p\ q\ ch2
+comment1.target=void\ init(int,\ int,\ char)
+comment2.params=
+comment2.target=void\ add()
+comment3.params=
+comment3.target=void\ sub()
+comment4.params=
+comment4.target=void\ multiply()
+comment5.params=
+comment5.target=void\ div()
+comment6.params=
+comment6.target=void\ calculate()
+comment7.params=a\ b\ ch
+comment7.target=void\ main(int,\ int,\ char)
+numComments=8
