@@ -11,12 +11,12 @@ class Piglatin
  int l = s.length();
  int p=0;
  char ch;
- for(int i=0; i<=1; i++)
+ for(int i=0; i<l; i++)
  {
     ch= s.charAt(i);
     if(ch=='A' || ch=='E' || ch=='I' || ch== 'O' || ch== 'U')
     {
-       p=i;
+       p=i; break;
     }
 }
 String a= s.substring(p);
