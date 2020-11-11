@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bubble_Sort_2
+comment1.params=arrSize
+comment1.target=Bubble_Sort_2(int)
+comment2.params=
+comment2.target=void\ initialize()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=
+comment4.target=void\ arrange()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

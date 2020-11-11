@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sale_Of_Week
+comment1.params=arrSize
+comment1.target=Sale_Of_Week(int)
+comment2.params=
+comment2.target=void\ getData()
+comment3.params=
+comment3.target=void\ total()
+comment4.params=
+comment4.target=void\ average()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Marks
+comment1.params=arrSize
+comment1.target=Marks(int)
+comment2.params=
+comment2.target=void\ getData()
+comment3.params=
+comment3.target=void\ totalmarks()
+comment4.params=
+comment4.target=void\ average()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

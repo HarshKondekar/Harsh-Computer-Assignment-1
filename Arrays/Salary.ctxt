@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Salary
+comment1.params=arrSize
+comment1.target=Salary(int)
+comment2.params=
+comment2.target=void\ getData()
+comment3.params=
+comment3.target=void\ salaryAbove100000()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

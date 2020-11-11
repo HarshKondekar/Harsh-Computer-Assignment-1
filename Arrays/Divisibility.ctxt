@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Divisibility
+comment1.params=arrSize
+comment1.target=Divisibility(int)
+comment2.params=
+comment2.target=void\ initialize()
+comment3.params=
+comment3.target=void\ Divisible()
+comment4.params=
+comment4.target=void\ notDivisible()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

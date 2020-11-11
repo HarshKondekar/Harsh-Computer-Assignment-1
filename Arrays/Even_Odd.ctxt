@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Even_Odd
+comment1.params=arrSize
+comment1.target=Even_Odd(int)
+comment2.params=
+comment2.target=void\ initialize()
+comment3.params=
+comment3.target=void\ even()
+comment4.params=
+comment4.target=void\ odd()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

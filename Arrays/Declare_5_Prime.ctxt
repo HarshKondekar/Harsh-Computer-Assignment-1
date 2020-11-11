@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Declare_5_Prime
+comment1.params=arrSize
+comment1.target=Declare_5_Prime(int)
+comment2.params=
+comment2.target=void\ initialize()
+comment3.params=n
+comment3.target=boolean\ isPrime(int)
+comment4.params=
+comment4.target=void\ checkPrime()
+comment5.params=
+comment5.target=void\ main()
+numComments=6
